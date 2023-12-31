@@ -19,7 +19,7 @@ This JavaFX application calculates the resistance of a resistor based on user in
 
 To run the application, make sure you have Java and JavaFX installed on your machine. Clone the repository and run the main class.
 
-git clone https://github.com/your-username/resistor-calculator.git
+git clone https://github.com/adamhitzger/JavaFX-Resistor-Calculator.git
 cd resistor-calculator
 javac ResistorCalculatorApp.java
 java ResistorCalculatorApp
