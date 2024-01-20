@@ -23,3 +23,5 @@ git clone https://github.com/adamhitzger/JavaFX-Resistor-Calculator.git
 cd resistor-calculator
 javac ResistorCalculatorApp.java
 java ResistorCalculatorApp
+
+![JavaFX resistor calculator](JavaFX-Resistor-Calculator/blob/main/colorCodeRes/src/main/resources/com/example/calculator/graphics/img/photo.png)
