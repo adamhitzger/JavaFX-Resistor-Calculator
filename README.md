@@ -24,4 +24,4 @@ cd resistor-calculator
 javac ResistorCalculatorApp.java
 java ResistorCalculatorApp
 
-![JavaFX resistor calculator](JavaFX-Resistor-Calculator/blob/main/colorCodeRes/src/main/resources/com/example/calculator/graphics/img/photo.png)
+![JavaFX resistor calculator](/resources/com/example/calculator/graphics/img/photo.png)
